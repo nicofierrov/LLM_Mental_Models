@@ -1,4 +1,4 @@
-# LLM_Mental_Models
+# LLM Mental Models
 
 
 
